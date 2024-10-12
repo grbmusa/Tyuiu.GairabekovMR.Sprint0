@@ -1,0 +1,15 @@
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\bin\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.exe
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\bin\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.deps.json
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\bin\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.runtimeconfig.json
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\bin\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.dll
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\bin\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.pdb
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.GeneratedMSBuildEditorConfig.editorconfig
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.AssemblyInfoInputs.cache
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.AssemblyInfo.cs
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.csproj.CoreCompileInputs.cache
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.sourcelink.json
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.dll
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\refint\Tyuiu.GairabekovMR.Sprint0.Task1.V0.dll
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.pdb
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\Tyuiu.GairabekovMR.Sprint0.Task1.V0.genruntimeconfig.cache
+F:\Программирование 1 курс\Tyuiu.GairabekovMR.Sprint0\Tyuiu.GairabekovMR.Sprint0.Task1.V0\obj\Debug\net8.0\ref\Tyuiu.GairabekovMR.Sprint0.Task1.V0.dll
